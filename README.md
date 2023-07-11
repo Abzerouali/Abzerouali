@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abderrahmane Zerouali</h1>
 <h3 align="center">A Computer Science student</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abzerouali&label=Profile%20views&color=0e75b6&style=flat" alt="abzerouali" /> </p>
+
 <p align="center">
-  <img src="https://media.tenor.com/i12HqZla0d4AAAAC/peeking-anime.gif" alt="Alt Text" width="500" height="400">
+  <img src="https://im.ezgif.com/tmp/ezgif-1-0a21ef4cb7.gif" alt="Alt Text" width="1000" height="500">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abzerouali&label=Profile%20views&color=0e75b6&style=flat" alt="abzerouali" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abzerouali" alt="abzerouali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abzerouali" target="blank"><img src="https://img.shields.io/twitter/follow/abzerouali?logo=twitter&style=for-the-badge" alt="abzerouali" /></a> </p>
 
+- 📚 I’m currently working on **Alx C projects**
+  
 - 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **C and SHELL**
@@ -28,9 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abzerouali&show_icons=true&locale=en&layout=compact" alt="abzerouali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abzerouali&show_icons=true&locale=en" alt="abzerouali" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abzerouali&show_icons=true&locale=en" alt="abzerouali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abzerouali&" alt="abzerouali" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abzerouali&" alt="abzerouali" /></p>
 
 
 
