@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abzerouali&label=Profile%20views&color=0e75b6&style=flat" alt="abzerouali" /> </p>
 
 <p align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2023/01/luffy-gif-9.gif" alt="Alt Text" width="1000" height="500">
+  <img src="https://i.pinimg.com/originals/69/3d/4d/693d4d4c34e7b0f629e543ac31eab1ff.gif" alt="Alt Text" width="500" height="300">
 </p>
 
 
