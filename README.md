@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abzerouali&theme=juicyfresh&no-frame=true&row=2&column=3" alt="abzerouali" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abzerouali" target="blank"><img src="https://img.shields.io/twitter/follow/abzerouali?logo=twitter&style=for-the-badge" alt="abzerouali" /></a> </p>
+<h2 align="Left">About me</h2>
 
 - 📚 I’m currently working on **Alx C projects**
   
