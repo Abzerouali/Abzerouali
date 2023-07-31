@@ -4,12 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abzerouali&label=Profile%20views&color=0e75b6&style=flat" alt="abzerouali" /> </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/69/3d/4d/693d4d4c34e7b0f629e543ac31eab1ff.gif" alt="Alt Text" width="500" height="300">
+  <img src="https://i.pinimg.com/originals/69/3d/4d/693d4d4c34e7b0f629e543ac31eab1ff.gif" alt="Alt Text" width="1000" height="500">
 </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abzerouali" alt="abzerouali" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abzerouali&theme=juicyfresh&no-frame=true&row=2&column=3" alt="abzerouali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abzerouali" target="blank"><img src="https://img.shields.io/twitter/follow/abzerouali?logo=twitter&style=for-the-badge" alt="abzerouali" /></a> </p>
 
