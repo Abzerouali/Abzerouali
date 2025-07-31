@@ -13,7 +13,6 @@
 
 <h2 align="Left">About me</h2>
 
-- 📚 I’m currently working on **Alx C projects**
   
 - 🌱 I’m currently learning **C**
 
